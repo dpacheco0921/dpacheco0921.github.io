@@ -1,0 +1,27 @@
+---
+title: "Publications"
+---
+
+For a full and up-to-date list, visit my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=WV8biqsAAAAJ).
+
+---
+
+Bates AS, Phelps JS, Kim M, Yang HH, Matsliah A, Ajabi Z, Perlman E, Delgado KM, Osman MAM, Salmon CK, Gager J, Silverman B, Renauld S, Salman F, Patel J, Collie MF, Fan J, **Pacheco DA**, Zhao Y, Zhang W, Serratosa Capdevila L, Roberts RJV, Munnelly EJ, Griggs N, Langley H, Moya-Llamas B, Zhang Z, Maloney RT, Yu S, Sterling AR, Sorek M, Kruk K, Serafetinidis N, Dhawan S, Klemm F, Brooks P, Lesser E, Jones JM, Pierce-Lundgren SE, Lee S, Luo Y, Cook AP, McKim TH, Giakoumas DS, Gorko B, Kophs EC, Falt T, Negron-Morales AM, Burke A, Hebditch J, Willie KP, Willie R, Popovych S, Kemnitz N, Ih D, Lee K, Lu R, Halageri A, Bae JA, Jourdan B, Schwartzman G, Demarest DD, Behnke E, Bland D, Kristiansen A, Skelton J, Stocks T, Garner D, Hernandez A, Kumar S, The BANC-FlyWire Consortium, Daly KC, Dorkenwald S, Collman F, Suver MP, Fenk LM, Pankratz MJ, Yao Z, Huston SJ, Stürner T, Jefferis GSXE, Eichler K, Seeds AM, Hampel S, Agrawal S, Okubo TS, Zandawala M, Macrina T, Adjavon DY, Funke J, Tuthill JC, Azevedo A, Seung HS, de Bivort BL, Murthy M, Drugowitsch J, Wilson RI, and Lee WA. 2025. "Distributed control circuits across a brain-and-cord connectome." *bioRxiv*. doi: [10.1101/2025.07.31.667571](https://doi.org/10.1101/2025.07.31.667571)
+
+Brezovec B, Berger A, Hao Y, Lin A, Ahmed S, **Pacheco DA**, Thiberge S, Murthy M, and Clandinin T. 2024. "BIFROST: a method for registering diverse imaging datasets of the Drosophila brain." *Proc Natl Acad Sci USA* 121 (47): e2322687121. doi: [10.1073/pnas.2322687121](https://doi.org/10.1073/pnas.2322687121)
+
+Roemschied F, **Pacheco DA**, Aragon MJ, Ireland E, Li X, Thieringer K, Pang R, and Murthy M. 2023. "Flexible Circuit Mechanisms for Context-Dependent Song Sequencing." *Nature* 622: 794–801. doi: [10.1038/s41586-023-06632-1](https://doi.org/10.1038/s41586-023-06632-1)
+
+Baker C, MacKellar C, Pang R, Nern A, Dorkenwald S, **Pacheco DA**, Eckstein N, Funke J, Dickson B, Murthy M. 2022. "Neural Network Organization for Courtship Song Feature Detection in Drosophila." *Current Biology* 32(15): 3317–3333.e7. doi: [10.1016/j.cub.2022.06.019](https://doi.org/10.1016/j.cub.2022.06.019)
+
+**Pacheco DA**, Thiberge S, Pnevmatikakis E, and Murthy M. 2021. "Auditory Activity Is Diverse and Widespread Throughout the Central Brain of Drosophila." *Nature Neuroscience* 24, 93–104. doi: [10.1038/s41593-020-00743-y](https://doi.org/10.1038/s41593-020-00743-y)
+
+Deutsch D, **Pacheco DA**, Encarnacion-Rivera L, Pereira T, Fathy R, Calhoun A, Ireland E, Burke A, Dorkenwald S, McKellar C, Macrina T, Lu R, Lee K, Kemnitz N, Ih D, Castro M, Halageri A, Jordan C, Silversmith W, Wu J, Seung S, and Murthy M. 2020. "The Neural Basis for a Persistent Internal State in Drosophila Females." *eLife* 9:e59502. doi: [10.7554/eLife.59502](https://doi.org/10.7554/eLife.59502)
+
+Clemens J, Coen P, Roemschied F, Pereira T, Mazumder D, Aldarondo D, **Pacheco DA**, and Murthy M. 2018. "Discovery of a New Song Mode in Drosophila Reveals Hidden Structure in the Sensory and Neural Drivers of Behavior." *Current Biology* 28 (15): 2400–2412.e6. doi: [10.1016/j.cub.2018.06.011](https://doi.org/10.1016/j.cub.2018.06.011)
+
+Coen P, Clemens J, Weinstein A, **Pacheco DA**, Deng Y, and Murthy M. 2014. "Dynamic Sensory Cues Shape Song Structure in Drosophila." *Nature* 507: 233–237. doi: [10.1038/nature13131](https://doi.org/10.1038/nature13131)
+
+Sun X, Badura A, **Pacheco DA**, Lynch L, Schneider E, Taylor M, Hogue I, Enquist L, Murthy M, and Wang S. 2013. "Fast GCaMPs for Improved Tracking of Neuronal Activity." *Nature Communications* 4: 2170. doi: [10.1038/ncomms3170](https://doi.org/10.1038/ncomms3170)
+
+Tayler T, **Pacheco DA**, Hergarden A, Murthy M, and Anderson D. 2012. "A Neuropeptide Circuit That Coordinates Sperm Transfer and Copulation Duration in Drosophila." *Proc Natl Acad Sci USA* 109 (50): 20697–702. doi: [10.1073/pnas.1218246109](https://doi.org/10.1073/pnas.1218246109)

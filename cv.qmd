@@ -1,0 +1,22 @@
+---
+title: "CV"
+---
+
+[Download CV (PDF)](assets/CV.pdf){.btn .btn-outline-primary}
+
+---
+
+### Education
+
+**Ph.D. in Neuroscience**
+Princeton University, Princeton Neuroscience Institute (2018)
+Advisor: Dr. Mala Murthy
+Dissertation: *Mapping courtship song representations throughout the central brain of Drosophila melanogaster*
+
+**B.S. in Genetics and Biotechnology**
+Universidad Nacional Mayor de San Marcos, Biology Department (2008)
+Mentor: Walter Cabrera-Febola
+
+---
+
+<iframe src="assets/CV.pdf" width="100%" height="800px" style="border:none;"></iframe>

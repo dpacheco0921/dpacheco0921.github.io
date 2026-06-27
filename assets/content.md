@@ -1,0 +1,39 @@
+# Site Content
+
+## Bio
+
+I am a neuroscientist interested in how the brain processes and extracts information from sensory stimuli to modulate behavior, and how these circuits evolve. Currently, I am a postdoctoral fellow in the laboratory of Dr. Rachel Wilson at Harvard Medical School. I grew up in Lima (Peru), where I did my undergraduate in Genetics at UNMSM and came to the US for graduate school in Neuroscience at Princeton University, where I worked on how the fruit fly's brain processes 'love songs' in Mala Murthy's laboratory. When not in the microscopy room, I could be found playing soccer or running outdoors.
+
+## Headshot
+
+- [ ] Add headshot photo → save as `assets/headshot.jpg`
+
+## Contact
+
+**Email:** dpacheco0921[at]gmail.com
+
+Harvard University | Harvard Medical School
+Wilson Lab
+200 Longwood Avenue, WAB320
+Boston, MA 02115, USA
+
+## CV
+
+[Download CV (PDF)](assets/cv.pdf) ← *add cv.pdf to assets folder*
+
+### Education
+
+**Ph.D. in Neuroscience**
+Princeton University, Princeton Neuroscience Institute (2018)
+Advisor: Dr. Mala Murthy
+Dissertation: *Mapping courtship song representations throughout the central brain of Drosophila melanogaster*
+
+**B.S. in Genetics and Biotechnology**
+Universidad Nacional Mayor de San Marcos, Biology Department (2008)
+Mentor: Walter Cabrera-Febola
+
+## Publications
+
+Google Scholar: https://scholar.google.com/citations?hl=en&user=WV8biqsAAAAJ
+
+- [ ] Add individual publication list (optional — can link to Scholar instead)
