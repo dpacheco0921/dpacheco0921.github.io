@@ -1,5 +1,5 @@
 .quarto/
-assets/content.md
-
 /.quarto/
+_site/
+assets/content.md
 **/*.quarto_ipynb
