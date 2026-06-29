@@ -1,2 +1,5 @@
 .quarto/
 assets/content.md
+
+/.quarto/
+**/*.quarto_ipynb

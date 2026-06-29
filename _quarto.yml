@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Diego A. Pacheco"
+  site-url: https://dpacheco0921.github.io
   navbar:
     left:
       - href: index.qmd
